@@ -1,0 +1,1 @@
+This project focuses on applying loops in website
